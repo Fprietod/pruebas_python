@@ -15,7 +15,7 @@ def random_name_generator(first, second, x):
     return set(names)
 
 
-first_names = ["Felipe", "Jorge", "Landon", "Jeremy", "Tyler", "Tom", 
+first_names = ["Felipe", "Jorge", "Landon", "Jorge", "Tylerrr", "Tom", 
 "Avery"]
 last_names = ["Smith", "Jones", "Brighton", "Taylor"]
 names = random_name_generator(first_names, last_names, 5)
